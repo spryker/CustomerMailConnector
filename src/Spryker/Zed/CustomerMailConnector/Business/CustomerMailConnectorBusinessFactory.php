@@ -16,7 +16,7 @@ use Spryker\Zed\CustomerMailConnector\CustomerMailConnectorDependencyProvider;
 /**
  * @method CustomerMailConnectorConfig getConfig()
  */
-class CustomerMailConnectorDependencyContainer extends AbstractBusinessFactory
+class CustomerMailConnectorBusinessFactory extends AbstractBusinessFactory
 {
 
     /**
